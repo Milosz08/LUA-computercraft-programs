@@ -1,3 +1,5 @@
+--adjust to 5x3 (width x height) screen
+
 function header()
   m1.setCursorPos(3,2)
   m1.setTextColor((colors.cyan))
